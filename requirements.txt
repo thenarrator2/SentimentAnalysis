@@ -1,0 +1,6 @@
+feedparser
+pandas
+nltk
+yfinance
+flask
+gunicorn
